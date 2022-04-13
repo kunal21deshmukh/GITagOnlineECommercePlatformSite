@@ -1,0 +1,148 @@
+.addtopDiv
+{
+    height: 60px;
+}
+.addcenterLog {
+  margin: auto;
+  width: 30%;
+  border: 3px solid black;
+  padding: 10px;
+  height: 235px;
+  text-align: center;
+}
+.addinner
+{
+  text-align: center;
+}
+
+
+.loginBack{
+ background-image: 
+    url(
+  "/src/components/subcatimages/block1.jpg"); 
+
+  
+   
+   
+   
+    
+    
+}
+/* color bg */
+
+/* background-color: #edeaee; */
+
+
+
+
+
+
+
+
+
+
+.l-form .container {
+  margin: 50px auto
+}
+
+.l-form .panel-heading {
+  text-align: center;
+  margin-bottom: 10px
+}
+
+.l-form #forgot {
+  min-width: 100px;
+  margin-left: auto;
+  text-decoration: none
+}
+
+.l-form a:hover {
+  text-decoration: none
+}
+
+.l-form .form-inline label {
+  padding-left: 10px;
+  margin: 0;
+  cursor: pointer
+}
+
+.l-form .btn.btn-primary {
+  margin-top: 20px;
+  border-radius: 15px
+}
+
+.l-form .panel {
+  min-height: 380px;
+  box-shadow: 20px 20px 80px rgb(218, 218, 218);
+  border-radius: 12px
+}
+
+.l-form .input-field {
+  border-radius: 5px;
+  padding: 5px;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  border: 1px solid #ddd;
+  color: #4343ff
+}
+
+.l-form input[type='text'],
+.l-form input[type='password'] {
+  border: none;
+  outline: none;
+  box-shadow: none;
+  width: 100%
+}
+
+.l-form .fa-eye-slash.btn {
+  border: none;
+  outline: none;
+  box-shadow: none
+}
+
+.l-form img {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+  position: relative
+}
+
+.l-form a[target='_blank'] {
+  position: relative;
+  transition: all 0.1s ease-in-out
+}
+
+.l-form .bordert {
+  border-top: 1px solid #aaa;
+  position: relative
+}
+
+.l-form .bordert:after {
+  content: "or connect with";
+  position: absolute;
+  top: -13px;
+  left: 33%;
+  background-color: #fff;
+  padding: 0px 8px
+}
+
+@media(max-width: 360px) {
+  .l-form #forgot {
+      margin-left: 0;
+      padding-top: 10px
+  }
+
+  .l-form body {
+      height: 100%
+  }
+
+  .l-form .container {
+      margin: 30px 0
+  }
+
+  .l-form .bordert:after {
+      left: 25%
+  }
+}

@@ -1,0 +1,17 @@
+
+  .topDiv
+  {
+      height: 60px;
+  }
+  .center {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    height: 500px;
+    text-align: center;
+  }
+  .inner
+  {
+    text-align: center;
+  }

@@ -1,0 +1,17 @@
+
+  .feedtopDiv
+  {
+      height: 60px;
+  }
+  .feedcenter {
+    margin: auto;
+    width: 50%;
+    border: 3px solid black;
+    padding: 10px;
+    height: 350px;
+    text-align: center;
+  }
+  .feedinner
+  {
+    text-align: center;
+  }

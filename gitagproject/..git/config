@@ -1,0 +1,10 @@
+[core]
+	repositoryformatversion = 0
+	filemode = false
+	bare = false
+	logallrefupdates = true
+	symlinks = false
+	ignorecase = true
+[remote "gi"]
+	url = https://github.com/kunal21deshmukh/GITagEcommerceProject.git
+	fetch = +refs/heads/*:refs/remotes/gi/*

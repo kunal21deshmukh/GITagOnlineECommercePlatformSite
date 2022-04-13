@@ -1,0 +1,30 @@
+
+  .addtopDiv
+  {
+      height: 60px;
+  }
+  .addtopDivAboveTable
+  {
+      height: 10px;
+  }
+  .addcenterSubOption {
+   
+    width: 50%;
+   
+  
+    height: 550px;
+    text-align: center;
+  }
+  
+  .addinner
+  {
+    text-align: center;
+  }
+  /* .addDiv
+  {
+      float: left;
+  }
+  .feedBackDiv
+  {
+      float: right;
+  } */
